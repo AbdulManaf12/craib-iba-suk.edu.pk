@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Center of Excellence for ROBOTICS, ARTIFICIAL INTELLIGENCE & BLOCKCHAIN",
+    "paragraph": "At the Nexus of Ingenuity and Innovation, Where Robots Reign Supreme! Explore groundbreaking research, drive transformative projects, harness unparalleled GPU resources, and navigate the future with expert guidance and assistance. From pioneering development to strategic product-level marketing and refinement, we're your compass in the realm of Robotics, Artificial Intelligence, and Blockchain."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "At the Center of Excellence for Robotics, Artificial Intelligence, and Blockchain (CRAIB), we spearhead research and pioneering training programs on a global scale. Our mission is to cultivate a new generation of talent, equipping students, researchers, industry professionals, academia, and entrepreneurs with critical analysis skills, creative thinking, and an entrepreneurial mindset in the dynamic fields of robotics, artificial intelligence, and blockchain. \n \n Driven by excellence, CRAIB provides state-of-the-art facilities that serve as incubation centers, fostering the development of patentable research and the commercialization of innovative products. Our ultimate goal is to position Pakistan as a competitive force on the global stage by leading advancements in robotics, artificial intelligence, and blockchain. Through our comprehensive approach, we aim to not only develop cutting-edge solutions but also to effectively and profitably leverage our human resources and services, making a lasting impact across borders.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Global Impact",
+      "Foster Innovation",
+      "Driven by Excellence",
+      "Pioneering Research"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Hands-on Development",
+      "State-of-the-Art Facilities",
+      "Ideation to Commercialization",
+      "Expert Guidance and Assistance"
     ]
   },
   "Gallery": [
@@ -67,36 +67,36 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-graduation-cap",
+      "name": "Workshop and Training",
+      "text": "Unlock Your Potential: Engage in tailored workshops and immersive training sessions. Master new tools and critical skills to thrive in a rapidly evolving landscape."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cogs ",
+      "name": "Robot Designing",
+      "text": "Innovate Creatively: Join us on a journey of creativity and innovation in robot design. Our experts guide you from concept to realization, ensuring every step is a success."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cube",
+      "name": "3D Printing and Prototyping",
+      "text": "From Vision to Reality: Utilize our cutting-edge 3D printing and prototyping services to bring your ideas to life. From rapid prototyping to intricate designs, we provide the tools and expertise for your success."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-android",
+      "name": "AI and Robotics Courses",
+      "text": "Empowering Learning: Dive into the forefront of AI and robotics with our comprehensive courses. Blend theory with hands-on practice to tackle complex challenges in these dynamic fields."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-flask",
+      "name": "Research and Development",
+      "text": "Driving Innovation: Partner with us to drive innovation and spearhead breakthroughs. From exploration to refinement, we fuel your quest for excellence in research and development."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    }
-  ],
+      "icon": "fa fa-life-ring",
+      "name": "Guidance and Assistance",
+      "text": "Expert Support: Navigate the complexities of AI, robotics, and beyond with our expert guidance and assistance. Whether you're a novice or a seasoned professional, our team is here to support you every step of the way."
+    }    
+  ],  
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
@@ -161,24 +161,24 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-flask",
+      "title": "Cutting-Edge Research",
+      "text": "The lab engages in groundbreaking research at the forefront of Robotics, Artificial Intelligence, and Blockchain technologies, fostering innovation and pushing boundaries."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-cogs",
+      "title": "Transformative Projects",
+      "text": "It drives transformative projects, indicating a focus on practical applications and solutions, rather than theoretical work alone."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-server",
+      "title": "Access to GPU Resources",
+      "text": "The lab offers unparalleled access to GPU resources, essential for high-performance computing tasks in fields like machine learning, deep learning, and data processing."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-lightbulb-o",
+      "title": "Expert Guidance and Assistance",
+      "text": "It provides expert guidance and assistance, suggesting a supportive environment where researchers and developers can receive mentorship and support to navigate complex challenges and maximize their impact."
     }
   ]
 }

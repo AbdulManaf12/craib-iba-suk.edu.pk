@@ -7,8 +7,8 @@ export const Services = (props) => {
         <div className="section-title">
           <h2>Our Services</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Unlocking Innovation, Empowering Solutions: Our Services Propel You
+            Towards Success!
           </p>
         </div>
         <div className="row">
@@ -19,7 +19,7 @@ export const Services = (props) => {
                   <i className={d.icon}></i>
                   <div className="service-desc">
                     <h3>{d.name}</h3>
-                    <p>{d.text}</p>
+                    <p style={{ textAlign: "justify" }}>{d.text}</p>
                   </div>
                 </div>
               ))
