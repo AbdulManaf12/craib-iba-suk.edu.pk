@@ -72,7 +72,7 @@
       "text": "Unlock Your Potential: Engage in tailored workshops and immersive training sessions. Master new tools and critical skills to thrive in a rapidly evolving landscape."
     },
     {
-      "icon": "fa fa-cogs ",
+      "icon": "fa fa-cogs",
       "name": "Robot Designing",
       "text": "Innovate Creatively: Join us on a journey of creativity and innovation in robot design. Our experts guide you from concept to realization, ensuring every step is a success."
     },
@@ -177,7 +177,7 @@
     },
     {
       "icon": "fa fa-lightbulb-o",
-      "title": "Expert Guidance and Assistance",
+      "title": "Expert Consultation",
       "text": "It provides expert guidance and assistance, suggesting a supportive environment where researchers and developers can receive mentorship and support to navigate complex challenges and maximize their impact."
     }
   ]
