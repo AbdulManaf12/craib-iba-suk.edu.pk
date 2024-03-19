@@ -95,8 +95,8 @@
       "icon": "fa fa-life-ring",
       "name": "Guidance and Assistance",
       "text": "Expert Support: Navigate the complexities of AI, robotics, and beyond with our expert guidance and assistance. Whether you're a novice or a seasoned professional, our team is here to support you every step of the way."
-    }    
-  ],  
+    }
+  ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
@@ -131,24 +131,39 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
+      "img": "https://facultyimages.iba-suk.edu.pk/INS-0022.jpg",
+      "name": "Ghulam Mujtaba Shaikh",
       "job": "Director"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "https://facultyimages.iba-suk.edu.pk/INS-0223.jpg",
+      "name": "Asif Khan",
+      "job": "AI & Robotics Head"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "https://siba-craib.vercel.app/static/media/07.8df3e35b7b0c1335711b.jpg",
+      "name": "Bilal Ahmed Arain",
+      "job": "Robotics Engineer"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "https://avatars.githubusercontent.com/u/119099460?v=4",
+      "name": "Nimra Mughal",
+      "job": "Senior Researcher"
+    },
+    {
+      "img": "https://siba-craib.vercel.app/static/media/06.a0ddf4acfc8725aee87e.jpg",
+      "name": "Rasheed Ahmed",
+      "job": "Robotics Engineer"
+    },
+    {
+      "img": "https://facultyimages.iba-suk.edu.pk/INS-0288.jpg",
+      "name": "Ghulam Murtaza Memon",
+      "job": "Assistant Professor"
+    },
+    {
+      "img": "https://facultyimages.iba-suk.edu.pk/INS-0403.jpg",
+      "name": "Muhammad Hussain Mughal",
+      "job": "Assistant Professor"
     }
   ],
   "Contact": {
