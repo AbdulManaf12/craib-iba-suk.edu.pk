@@ -213,15 +213,15 @@ a:focus,
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  animation: slideshow 10s infinite; /* Change images every 10 seconds */
+  animation: slideshow 10s infinite;
 }
 @keyframes slideshow {
   0% {
-    background-image: url("https://scontent.fkhi6-2.fna.fbcdn.net/v/t39.30808-6/290380686_5510603352317671_8777294841453170877_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHrWxtLSc0zKJFBWfuaxsUrCxNngpwWuEwLE2eCnBa4TM2CkayUTLiolK1tzgBrQlhvOGoGkXbQsdBwnELjBxR4&_nc_ohc=x5Tc1uajXgcAX-Z9_-W&_nc_ht=scontent.fkhi6-2.fna&oh=00_AfAz4Q3ma0vtiKlbHWkI9e9nZaRkBzuQN-DDYfdM_FOVEw&oe=6608355F");
+    background-image: url("../img/gallery/main_image.jpg");
   }
 
   100% {
-    background-image: url("image.png");
+    background-image: url("../img/gallery/robotics_exihibition.jpg");
   }
 }
 .intro .overlay {
