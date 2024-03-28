@@ -8,9 +8,9 @@ import { Services } from "./components/services";
 import { Gallery } from "./components/gallery";
 import { Team } from "./components/Team";
 import { Contact } from "./components/contact";
-import Events from "./components/events";
+import { Events } from "./components/events";
 import { Robots } from "./components/robots";
-import DetailedGallery from "./components/detailed_gallery";
+import { DetailedGallery } from "./components/detailed_gallery";
 
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
@@ -46,13 +46,19 @@ const App = () => {
             }
           />
 
-          <Route path="/events" element={<Events />} />
+          <Route
+            path="/events"
+            element={<Events data={landingPageData.Events} />}
+          />
           <Route
             path="/robots"
             element={<Robots data={landingPageData.Robots} />}
           />
 
-          <Route path="/gallery" element={<DetailedGallery />} />
+          <Route
+            path="/gallery"
+            element={<DetailedGallery data={landingPageData.DetailedGallery} />}
+          />
         </Routes>
         <Contact data={landingPageData.Contact} />
       </div>

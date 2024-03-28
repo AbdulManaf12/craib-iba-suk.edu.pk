@@ -11,7 +11,7 @@ export const Robots = (props) => {
 
   return (
     <div>
-      <h1>Robots at CRAIB</h1>
+      <h1 className="heading">Robots at CRAIB</h1>
       <div className="card-deck">
         {props.data.map((robot, index) => (
           <div className="card" key={index}>
@@ -39,6 +39,7 @@ export const Robots = (props) => {
           </div>
         ))}
       </div>
+      <br /> <br />
     </div>
   );
 };

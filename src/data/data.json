@@ -224,7 +224,7 @@
     {
       "name": "Miro-E Robot",
       "img": "img/robots/Miro-E-robot.jpg",
-      "text": "A micro-E robot is a small, agile robot designed for precision tasks. It can navigate tight spaces, manipulate small objects, and perform delicate operations. Micro-E robots are often used in medical, industrial, and research applications.",
+      "text": "A miro-E robot is a small, agile robot designed for precision tasks. It can navigate tight spaces, manipulate small objects, and perform delicate operations. Micro-E robots are often used in medical, industrial, and research applications.",
       "url": "https://www.consequentialrobotics.com/miro-e/"
     },
     {
@@ -250,6 +250,70 @@
       "img": "img/robots/ozobot.jpg",
       "text": "Ozobot is a small, programmable robot designed for education and entertainment. It can follow lines, detect colors, and perform simple tasks. Ozobots are often used in schools, coding clubs, and STEM programs to teach programming and robotics concepts.",
       "url": "https://www.ozobot.com/"
+    }
+  ],
+  "DetailedGallery": [
+    {
+      "Projects": [
+        {
+          "title": "Project Title",
+          "img": "img/portfolio/01-small.jpg",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+          "team": "John Doe, Johnathan Doe",
+          "supervisor": "Dr. Jane Doe",
+          "date": "January 2017"
+        },
+        {
+          "title": "Project Title",
+          "img": "img/portfolio/01-small.jpg",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+          "team": "John Doe, Johnathan Doe",
+          "supervisor": "Dr. Jane Doe",
+          "date": "January 2017"
+        },
+        {
+          "title": "Project Title",
+          "img": "img/portfolio/01-small.jpg",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+          "team": "John Doe, Johnathan Doe",
+          "supervisor": "Dr. Jane Doe",
+          "date": "January 2017"
+        },
+        {
+          "title": "Project Title",
+          "img": "img/portfolio/01-small.jpg",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+          "team": "John Doe, Johnathan Doe",
+          "supervisor": "Dr. Jane Doe",
+          "date": "January 2017"
+        }
+      ]
+    }
+  ],
+  "Events":[
+    {
+      "title": "Event Title",
+      "img": "img/events/01.jpg",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+      "date": "January 2017"
+    },
+    {
+      "title": "Event Title",
+      "img": "img/events/02.jpg",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+      "date": "January 2017"
+    },
+    {
+      "title": "Event Title",
+      "img": "img/events/03.jpg",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+      "date": "January 2017"
+    },
+    {
+      "title": "Event Title",
+      "img": "img/events/04.jpg",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+      "date": "January 2017"
     }
   ]
 }
