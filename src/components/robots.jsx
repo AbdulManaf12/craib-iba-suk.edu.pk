@@ -3,8 +3,6 @@ import React from "react";
 import "./robots.css";
 
 export const Robots = (props) => {
-  console.log("data: ", props.data);
-
   if (!props.data) {
     return <div>Loading...</div>;
   }
