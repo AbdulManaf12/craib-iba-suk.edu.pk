@@ -195,5 +195,61 @@
       "title": "Expert Consultation",
       "text": "It provides expert guidance and assistance, suggesting a supportive environment where researchers and developers can receive mentorship and support to navigate complex challenges and maximize their impact."
     }
+  ],
+  "Robots": [
+    {
+      "name": "Pepper",
+      "img": "img/robots/pepper.jpg",
+      "text": "Pepper is a humanoid robot designed to interact with humans. It can recognize faces and basic human emotions, and engage in conversations. Pepper is often used in customer service and educational settings.",
+      "url": "https://www.aldebaran.com/en/pepper"
+    },
+    {
+      "name": "Jackal",
+      "img": "img/robots/jackal.jpg",
+      "text": "Jackal is a rugged, outdoor robot designed for research and exploration. It can navigate rough terrain, carry payloads, and perform tasks in challenging environments. Jackal is often used in robotics research and field applications.",
+      "url": "https://clearpathrobotics.com/jackal-small-unmanned-ground-vehicle/"
+    },
+    {
+      "name": "3D Manipluator",
+      "img": "img/robots/3d manipluator.jpg",
+      "text": "A 3D manipulator is a robotic arm with multiple joints and end-effectors that can move in three-dimensional space. It is often used in manufacturing, assembly, and research applications.",
+      "url": "https://www.robotshop.com/en/robotic-arms.html"
+    },
+    {
+      "name": "3D Spider",
+      "img": "img/robots/3d-spider.jpg",
+      "text": "A 3D spider robot is a multi-legged robot designed to move in complex environments. It can climb walls, traverse rough terrain, and perform tasks that traditional wheeled robots cannot. 3D spider robots are often used in search and rescue, exploration, and military applications.",
+      "url": "https://www.robotshop.com/en/lynxmotion-3d-spider-robot-kit.html"
+    },
+    {
+      "name": "Miro-E Robot",
+      "img": "img/robots/Miro-E-robot.jpg",
+      "text": "A micro-E robot is a small, agile robot designed for precision tasks. It can navigate tight spaces, manipulate small objects, and perform delicate operations. Micro-E robots are often used in medical, industrial, and research applications.",
+      "url": "https://www.consequentialrobotics.com/miro-e/"
+    },
+    {
+      "name": "Turtlebot",
+      "img": "img/robots/tutlebot.jpg",
+      "text": "A Turtlebot is a mobile robot platform designed for research and education. It can navigate indoor environments, map its surroundings, and interact with objects. Turtlebots are often used in robotics labs, universities, and research institutions.",
+      "url": "https://www.turtlebot.com/"
+    },
+    {
+      "name": "OttoDIY Robot",
+      "img": "img/robots/otto robot.jpg",
+      "text": "OttoDIY is an open-source robot platform designed for makers and hobbyists. It can be assembled from off-the-shelf components, programmed with Arduino, and customized for different tasks. OttoDIY robots are often used in STEM education, robotics clubs, and DIY projects.",
+      "url": "https://www.ottodiy.com/"
+    },
+    {
+      "name": "Mobile Robot",
+      "img": "img/robots/mobile-robot.jpg",
+      "text": "A mobile robot is a wheeled or tracked robot designed for navigation in indoor or outdoor environments. It can move autonomously, avoid obstacles, and perform tasks like surveillance, inspection, and delivery. Mobile robots are often used in industrial, commercial, and military applications.",
+      "url": "https://www.robotshop.com/en/mobile-robots.html"
+    },
+    {
+      "name": "Ozobot",
+      "img": "img/robots/ozobot.jpg",
+      "text": "Ozobot is a small, programmable robot designed for education and entertainment. It can follow lines, detect colors, and perform simple tasks. Ozobots are often used in schools, coding clubs, and STEM programs to teach programming and robotics concepts.",
+      "url": "https://www.ozobot.com/"
+    }
   ]
 }
