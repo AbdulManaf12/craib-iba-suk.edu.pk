@@ -213,23 +213,15 @@ a:focus,
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  /* animation: slideshow 10s infinite; */
-}
-@keyframes slideshow {
-  0% {
-    background-image: url("../img/gallery/main_image.jpg");
-  }
-
-  100% {
-    background-image: url("../img/gallery/robotics_exihibition.jpg");
-  }
 }
 .intro .overlay {
-  background: rgba(29, 79, 187, 0.7);
+  /* background: rgba(29, 79, 187, 0.7); */
+  background-color: white;
 }
 .intro h1 {
   font-family: "Raleway", sans-serif;
-  color: #ffffff;
+  /* color: #ffffff; */
+  color: black;
   font-size: 82px;
   font-weight: 700;
   text-transform: uppercase;
@@ -241,7 +233,7 @@ a:focus,
   color: #5ca9fb;
 }
 .intro p {
-  color: #fff;
+  /* color: #fff; */
   font-size: 22px;
   font-weight: 300;
   line-height: 30px;
@@ -249,7 +241,7 @@ a:focus,
   margin-bottom: 60px;
 }
 header .intro-text {
-  padding-top: 350px;
+  padding-top: 250px;
   padding-bottom: 200px;
   text-align: center;
 }
