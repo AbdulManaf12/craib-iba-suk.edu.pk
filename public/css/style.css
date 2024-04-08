@@ -213,7 +213,7 @@ a:focus,
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  animation: slideshow 10s infinite;
+  /* animation: slideshow 10s infinite; */
 }
 @keyframes slideshow {
   0% {
@@ -225,7 +225,7 @@ a:focus,
   }
 }
 .intro .overlay {
-  background: rgba(15, 51, 129, 0.7);
+  background: rgba(29, 79, 187, 0.7);
 }
 .intro h1 {
   font-family: "Raleway", sans-serif;
@@ -256,6 +256,7 @@ header .intro-text {
 /* Features Section */
 #features {
   background: #f6f6f6;
+  height: 100%;
 }
 #features i.fa {
   font-size: 38px;
@@ -619,3 +620,21 @@ label {
 .img-responsive {
   padding-top: 20%;
 }
+
+.item_feature {
+  background-color: white;
+  border: 1px solid #dbdbdb;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+  margin-left: 3%;
+  width: 22%;
+  height: 56%;
+  padding: 2% 2% 0;
+  border-radius: 8px; 
+  overflow: hidden; 
+  transition: box-shadow 0.3s ease; 
+}
+
+.item_feature:hover {
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2), 0 3px 6px rgba(0, 0, 0, 0.2);
+}
+
