@@ -1,7 +1,0 @@
-.portfolio-item-image {
-    width: 400px; /* Adjust width as needed */
-    height: 300px; /* Adjust height as needed */
-    border: 1px solid #ccc;
-    object-fit: cover; /* Or 'contain' for non-cropped scaling */
-  }
-  
