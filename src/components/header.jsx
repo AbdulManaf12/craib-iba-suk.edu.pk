@@ -1,4 +1,5 @@
 import React from "react";
+import "./header.css";
 
 export const Header = (props) => {
   return (
@@ -18,10 +19,12 @@ export const Header = (props) => {
                   className="btn btn-custom btn-lg page-scroll"
                 >
                   Learn More
-                </a>{" "}
+                </a>
               </div>
             </div>
           </div>
+          <div className="left-band"></div>
+          <div className="right-band"></div>
         </div>
       </div>
     </header>

@@ -1,0 +1,34 @@
+#header .intro .overlay {
+  position: relative;
+  overflow: hidden;
+}
+
+.right-band {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 50%;
+  height: 100%;
+  background-color: rgb(44, 78, 190, 0.8);
+  border-top-left-radius: 100% 100%;
+  border-bottom-left-radius: 100% 100%;
+  z-index: 0;
+  margin-right: -35%;
+  margin-top: -5%;
+}
+
+.left-band {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50%;
+  height: 100%;
+  background-color: rgb(44, 78, 190, 0.8);
+  border-top-right-radius: 100% 100%;
+  border-bottom-right-radius: 100% 100%;
+  z-index: 0;
+  margin-left: -35%;
+  margin-top: -5%;
+}
