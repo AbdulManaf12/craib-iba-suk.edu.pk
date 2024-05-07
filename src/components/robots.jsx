@@ -1,4 +1,3 @@
-// Robots.js
 import React from "react";
 import "./robots.css";
 
@@ -8,9 +7,9 @@ export const Robots = (props) => {
   }
 
   return (
-    <div>
+    <div className="robots-container">
       <h1 className="heading">Robots at CRAIB</h1>
-      <div className="card-deck">
+      <div className="outer-card card-deck flex-wrap">
         {props.data.map((robot, index) => (
           <div className="card" key={index}>
             <img
@@ -22,7 +21,15 @@ export const Robots = (props) => {
             <div className="card-body">
               <h4 className="card-title">{robot.name}</h4>
               <p className="card-text">{robot.text}</p>
-              <p className="card-text">
+              <br />
+              <br />
+            </div>
+            <div className="card-button-container">
+              {" "}
+              {/* New container for button */}
+              <p className="card-text" style={{ marginBottom: 0 }}>
+                {" "}
+                {/* Remove margin-bottom from text */}
                 <small className="text-muted">
                   <a
                     href={robot.url}
@@ -37,7 +44,6 @@ export const Robots = (props) => {
           </div>
         ))}
       </div>
-      <br /> <br />
     </div>
   );
 };
