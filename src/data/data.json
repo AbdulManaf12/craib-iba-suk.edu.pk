@@ -256,16 +256,16 @@
     {
       "Projects": [
         {
-          "title": "Project Title",
-          "img": "img/portfolio/01-small.jpg",
+          "title": "Solar Plates Clearning Robot",
+          "img": "img/projects/solar.jpeg",
           "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
           "team": "John Doe, Johnathan Doe",
           "supervisor": "Dr. Jane Doe",
           "date": "January 2017"
         },
         {
-          "title": "Project Title",
-          "img": "img/portfolio/01-small.jpg",
+          "title": "Vision-based Prosthetic Arm",
+          "img": "img/portfolio/arm.jpeg",
           "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
           "team": "John Doe, Johnathan Doe",
           "supervisor": "Dr. Jane Doe",
