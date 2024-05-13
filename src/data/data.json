@@ -258,34 +258,34 @@
         {
           "title": "Solar Plates Clearning Robot",
           "img": "img/projects/solar.jpeg",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
-          "team": "John Doe, Johnathan Doe",
-          "supervisor": "Dr. Jane Doe",
-          "date": "January 2017"
+          "text": "This robot can clean the solar plates with the aim to save the human time and can be controlled from a mobile phone app ",
+          "team": "Ibadullah, Tahir and Mujtaba",
+          "supervisor": "Engr. Abdul Rasheed",
+          "date": "January 2022"
         },
         {
           "title": "Vision-based Prosthetic Arm",
-          "img": "img/portfolio/arm.jpeg",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
-          "team": "John Doe, Johnathan Doe",
-          "supervisor": "Dr. Jane Doe",
-          "date": "January 2017"
+          "img": "img/projects/arm.jpeg",
+          "text": "Vision-based prosthetic arm uses the OpenCV algorthm to detect the hand and fingers movement to manipulate the hand with the help of servo motors.",
+          "team": "Ibadullah and Tahir",
+          "supervisor": "Engr. Bilal Ahmed and Engr. Abdul Rasheed",
+          "date": "January 2022"
         },
         {
-          "title": "Project Title",
-          "img": "img/portfolio/01-small.jpg",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+          "title": "Robotic Arm",
+          "img": "img/projects/arm2.jpg",
+          "text": "An affordable model of a 3D manipulator developled as a semestrer project by the computer science students.",
           "team": "John Doe, Johnathan Doe",
-          "supervisor": "Dr. Jane Doe",
-          "date": "January 2017"
+          "supervisor": "Dr. Asif Khan",
+          "date": "August 2022"
         },
         {
-          "title": "Project Title",
-          "img": "img/portfolio/01-small.jpg",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+          "title": "3D Spyder",
+          "img": "img/projects/3d-spider.jpg",
+          "text": "A 3D spider robot is a multi-legged robot designed to move in complex environments. It can climb walls, traverse rough terrain, and perform tasks that traditional wheeled robots cannot. 3D spider robots are often used in search and rescue, exploration, and military applications.",
           "team": "John Doe, Johnathan Doe",
-          "supervisor": "Dr. Jane Doe",
-          "date": "January 2017"
+          "supervisor": "Dr. Asif Khan",
+          "date": "August 2022"
         }
       ]
     }
