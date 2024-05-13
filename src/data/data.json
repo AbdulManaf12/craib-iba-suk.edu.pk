@@ -203,14 +203,6 @@
       "text": "Pepper is a humanoid robot designed to interact with humans. It can recognize faces and basic human emotions, and engage in conversations. Pepper is often used in customer service and educational settings.",
       "url": "https://www.aldebaran.com/en/pepper"
     },
-   
-    {
-      "name": "3D Manipluator",
-      "img": "img/robots/3d manipluator.jpg",
-      "text": "A 3D manipulator is a robotic arm with multiple joints and end-effectors that can move in three-dimensional space. It is often used in manufacturing, assembly, and research applications.",
-      "url": "https://www.robotshop.com/en/robotic-arms.html"
-    },
-    
     {
       "name": "Miro-E Robot",
       "img": "img/robots/Miro-E-robot.jpg",
