@@ -266,6 +266,14 @@
           "team": "John Doe, Johnathan Doe",
           "supervisor": "Dr. Asif Khan",
           "date": "August 2022"
+        },
+        {
+          "title": "Otto Robot",
+          "img": "img/projects/Otto robot.jpg",
+          "text": "OttoDIY is an open-source robot platform designed for makers and hobbyists. It can be assembled from off-the-shelf components, programmed with Arduino, and customized for different tasks. OttoDIY robots are often used in STEM education, robotics clubs, and DIY projects.",
+          "team": "John Doe, Johnathan Doe",
+          "supervisor": "Dr. Asif Khan",
+          "date": "August 2022"
         }
       ]
     }
