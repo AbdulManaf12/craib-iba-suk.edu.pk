@@ -257,7 +257,7 @@
           "text": "An affordable model of a 3D manipulator developled as a semestrer project by the computer science students.",
           "team": "John Doe, Johnathan Doe",
           "supervisor": "Dr. Asif Khan",
-          "date": "August 2022"
+          "date": "August 2023"
         },
         {
           "title": "3D Spyder",
@@ -265,7 +265,7 @@
           "text": "A 3D spider robot is a multi-legged robot designed to move in complex environments. It can climb walls, traverse rough terrain, and perform tasks that traditional wheeled robots cannot. 3D spider robots are often used in search and rescue, exploration, and military applications.",
           "team": "John Doe, Johnathan Doe",
           "supervisor": "Dr. Asif Khan",
-          "date": "August 2022"
+          "date": "August 2023"
         },
         {
           "title": "Otto Robot",
@@ -273,7 +273,7 @@
           "text": "OttoDIY is an open-source robot platform designed for makers and hobbyists. It can be assembled from off-the-shelf components, programmed with Arduino, and customized for different tasks. OttoDIY robots are often used in STEM education, robotics clubs, and DIY projects.",
           "team": "John Doe, Johnathan Doe",
           "supervisor": "Dr. Asif Khan",
-          "date": "August 2022"
+          "date": "August 2023"
         }
       ]
     }
@@ -281,9 +281,9 @@
   "Events":[
     {
       "title": "Event Title 1",
-      "img": "img/events/01.jpg",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
-      "date": "January 2017"
+      "img": "img/events/techfest2.jpg",
+      "text": "TechFest a tech-event was organized by Department of Computer Science. Students participated in various activites including, Robo War, Project Exhibition, ICT Quiz, Game Competitiona and more.",
+      "date": "June 2023"
     },
     {
       "title": "Event Title",
