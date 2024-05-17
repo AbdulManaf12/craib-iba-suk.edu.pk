@@ -152,7 +152,7 @@
     },
     {
       "img": "https://siba-craib.vercel.app/static/media/06.a0ddf4acfc8725aee87e.jpg",
-      "name": "Rasheed Ahmed",
+      "name": "Abdul Rasheed",
       "job": "Robotics Engineer"
     },
     {
@@ -203,14 +203,14 @@
       "text": "Pepper is a humanoid robot designed to interact with humans. It can recognize faces and basic human emotions, and engage in conversations. Pepper is often used in customer service and educational settings.",
       "url": "https://www.aldebaran.com/en/pepper"
     },
-   
+
     {
       "name": "Jackal",
       "img": "img/robots/jackal.jpg",
       "text": "Jackal is a rugged, outdoor robot designed for research and exploration. It can navigate rough terrain, carry payloads, and perform tasks in challenging environments. Jackal is often used in robotics research and field applications.",
       "url": "https://clearpathrobotics.com/jackal-small-unmanned-ground-vehicle/"
     },
-    
+
     {
       "name": "Miro-E Robot",
       "img": "img/robots/Miro-E-robot.jpg",
@@ -223,8 +223,7 @@
       "text": "A Turtlebot is a mobile robot platform designed for research and education. It can navigate indoor environments, map its surroundings, and interact with objects. Turtlebots are often used in robotics labs, universities, and research institutions.",
       "url": "https://www.turtlebot.com/"
     },
-  
-   
+
     {
       "name": "Ozobot",
       "img": "img/robots/ozobot.jpg",
@@ -278,7 +277,7 @@
       ]
     }
   ],
-  "Events":[
+  "Events": [
     {
       "title": "TechFest",
       "img": "img/events/techfest2.jpg",
