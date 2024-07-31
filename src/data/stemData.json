@@ -1,0 +1,131 @@
+{
+    "heroSection": {
+        "title": "Empowering Future Innovators with STEM Education",
+        
+        "image": "img/stem/walpaper.jpg",
+        "buttons": [
+            {
+                "text": "Learn More",
+                "link": "#learn-more"
+            },
+            {
+                "text": "Go to Moodle Portal",
+                "link": "#moodle-portal"
+            }
+        ]
+    },
+    "whyChooseSection": {
+        "title": "Why Choose CRAIB LAB?",
+        "features": [
+            {
+                "title": "Interdisciplinary Learning",
+                "description": "Experience a unique blend of Science, Technology, Engineering, and Mathematics, integrated into real-world applications."
+            },
+            {
+                "title": "Hands-On Projects",
+                "description": "Engage in interactive projects that challenge and enhance critical thinking and creativity."
+            },
+            {
+                "title": "Expert-Led Courses",
+                "description": "Learn from seasoned educators and industry professionals who bring cutting-edge knowledge and experience to the classroom."
+            },
+            {
+                "title": "Tailored for Local Schools",
+                "description": "Our curriculum is specifically designed to meet the needs of local schools, ensuring relevance and impact."
+            }
+        ]
+    },
+    "courseOfferingsSection": {
+        "title": "Course Offerings",
+        "categories": [
+            {
+                "name": "Science",
+                "courses": [
+                    "Biology & Chemistry: Uncover the secrets of life and chemical reactions.",
+                    "Physics & Environmental Science: Explore the principles governing our world."
+                ]
+            },
+            {
+                "name": "Technology",
+                "courses": [
+                    "Coding & Robotics: Dive into programming and automation with hands-on projects.",
+                    "Digital Literacy: Build essential skills for navigating the digital world."
+                ]
+            },
+            {
+                "name": "Engineering",
+                "courses": [
+                    "Design & Innovation: Tackle real-world engineering problems with creativity and precision.",
+                    "Mechanical Systems: Understand the mechanics behind everyday technology."
+                ]
+            },
+            {
+                "name": "Mathematics",
+                "courses": [
+                    "Algebra & Calculus: Master mathematical concepts with practical applications.",
+                    "Data Analysis: Develop analytical skills to interpret complex data sets."
+                ]
+            }
+        ]
+    },
+    "successStoriesSection": {
+        "title": "Success Stories",
+        "testimonials": [
+            {
+                "quote": "The robotics course at CRAIB LAB was transformative! It fueled my passion for technology and inspired me to pursue a career in engineering.",
+                "author": "Bilal Ahmed"
+            },
+            {
+                "quote": "CRAIB LAB's STEM curriculum has revolutionized our teaching approach. Our students are more engaged and exhibit remarkable problem-solving abilities.",
+                "author": "Nimra Mughal"
+            }
+        ]
+    },
+    "joinStemRevolutionSection": {
+        "title": "Join the STEM Revolution",
+        "description": "Are you ready to transform your learning experience? Our platform is here to equip you with the knowledge and skills to succeed in a rapidly evolving world.",
+        "button": {
+            "text": "Go to Moodle Portal",
+            "link": "#moodle-portal"
+        }
+    },
+    "contactUsSection": {
+        "title": "Contact Us",
+        "description": "Have questions or need more information? We're here to help! Reach out to us:",
+        "contactDetails": [
+            {
+                "type": "Email",
+                "value": "info@craiblab.com"
+            },
+            {
+                "type": "Phone",
+                "value": "+92 123 456 789"
+            },
+            {
+                "type": "Address",
+                "value": "CRAIB LAB, Sukkur IBA University"
+            }
+        ],
+        "socialMedia": [
+            {
+                "platform": "Facebook",
+                "link": "https://www.facebook.com/craiblab"
+            },
+            {
+                "platform": "Twitter",
+                "link": "https://twitter.com/craiblab"
+            },
+            {
+                "platform": "LinkedIn",
+                "link": "https://www.linkedin.com/company/craiblab"
+            },
+            {
+                "platform": "Instagram",
+                "link": "https://www.instagram.com/craiblab"
+            }
+        ]
+    },
+    "footer": {
+        "text": "© 2024 CRAIB LAB at Sukkur IBA. All rights reserved."
+    }
+}
