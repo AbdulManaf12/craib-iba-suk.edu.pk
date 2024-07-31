@@ -46,7 +46,8 @@ const StemPage = () => {
         <ul className="features-list">
           {data.whyChooseSection.features.map((feature, index) => (
             <li key={index}>
-              <strong>{feature.title}:</strong> {feature.description}
+              <i className={feature.icon}></i> <strong>{feature.title}:</strong>{" "}
+              {feature.description}
             </li>
           ))}
         </ul>
@@ -58,7 +59,9 @@ const StemPage = () => {
         <div className="course-grid">
           {data.courseOfferingsSection.categories.map((category, index) => (
             <div key={index} className="course-category">
-              <h3>{category.name}</h3>
+              <h3>
+                <i className={category.icon}></i> {category.name}
+              </h3>
               <ul>
                 {category.courses.map((course, index) => (
                   <li key={index}>{course}</li>
