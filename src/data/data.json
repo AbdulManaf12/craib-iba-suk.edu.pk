@@ -161,9 +161,14 @@
       "job": "Assistant Professor"
     },
     {
-      "img": "https://facultyimages.iba-suk.edu.pk/INS-0403.jpg",
-      "name": "Muhammad Hussain Mughal",
-      "job": "Assistant Professor"
+      "img": "https://iba-suk.edu.pk/Content/assets/img/cs%20faculty/Sanaullah.png",
+      "name": "Sanaullah Khaskheli",
+      "job": "ML Engineer"
+    },
+    {
+      "img": "https://iba-suk.edu.pk/Content/assets/img/cs%20faculty/Munaf.jpg",
+      "name": "Abdul Manaf",
+      "job": "AI Engineer"
     }
   ],
   "Contact": {
