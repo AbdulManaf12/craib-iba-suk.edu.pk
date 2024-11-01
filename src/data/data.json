@@ -131,42 +131,37 @@
   ],
   "Team": [
     {
-      "img": "https://facultyimages.iba-suk.edu.pk/INS-0022.jpg",
+      "img": "img/team/Mujtaba.jpg",
       "name": "Ghulam Mujtaba Shaikh",
       "job": "Director"
     },
     {
-      "img": "https://facultyimages.iba-suk.edu.pk/INS-0223.jpg",
+      "img": "img/team/Asif.jpg",
       "name": "Asif Khan",
       "job": "AI & Robotics Head"
     },
     {
-      "img": "https://siba-craib.vercel.app/static/media/07.8df3e35b7b0c1335711b.jpg",
+      "img": "img/team/Bilal.jpg",
       "name": "Bilal Ahmed Arain",
       "job": "Robotics Engineer"
     },
     {
-      "img": "https://avatars.githubusercontent.com/u/119099460?v=4",
+      "img": "img/team/Nimra.jpeg",
       "name": "Nimra Mughal",
       "job": "Senior Researcher"
     },
     {
-      "img": "https://siba-craib.vercel.app/static/media/06.a0ddf4acfc8725aee87e.jpg",
+      "img": "img/team/rasheed.jpg",
       "name": "Abdul Rasheed",
       "job": "Robotics Engineer"
     },
     {
-      "img": "https://facultyimages.iba-suk.edu.pk/INS-0288.jpg",
-      "name": "Ghulam Murtaza Memon",
-      "job": "Assistant Professor"
-    },
-    {
-      "img": "https://iba-suk.edu.pk/Content/assets/img/cs%20faculty/Sanaullah.png",
+      "img": "img/team//Sanaullah.png",
       "name": "Sanaullah Khaskheli",
       "job": "ML Engineer"
     },
     {
-      "img": "https://iba-suk.edu.pk/Content/assets/img/cs%20faculty/Munaf.jpg",
+      "img": "img/team/Munaf.jpg",
       "name": "Abdul Manaf",
       "job": "AI Engineer"
     }
