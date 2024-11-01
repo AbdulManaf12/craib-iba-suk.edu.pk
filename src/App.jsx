@@ -15,6 +15,7 @@ import { DetailedGallery } from "./components/detailed_gallery";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
+import StemPage from "./components/stem";
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
   speed: 1000,
@@ -58,6 +59,10 @@ const App = () => {
           <Route
             path="/gallery"
             element={<DetailedGallery data={landingPageData.DetailedGallery} />}
+          />
+          <Route
+            path="/stem"
+            element={<StemPage/>}
           />
         </Routes>
         <Contact data={landingPageData.Contact} />
